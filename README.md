@@ -18,3 +18,4 @@ The booking flow stores the request, sends a Resend confirmation when configured
 
 Set `ADMIN_PASSWORD` and `ADMIN_SESSION_SECRET` in `.env.local`, then open `/admin`. The dashboard is protected by an HTTP-only signed session cookie. Add a `status` text column to the `bookings` table (default: `new`) to enable status management.
 # ozgorushbayatov-MacBook-Air-Ozgorush-song-kul-tours-next
+# ozgorushbayatov-MacBook-Air-Ozgorush-song-kul-tours-next
